@@ -75,3 +75,10 @@
 
 ![captura12](img/captura12.png "captura12")
 
+# Cláusula inner join
+
+![innerjoin](img/innerjoin.png "innerjoin")
+
+# Cláusula subconsulta
+
+![subconsulta](img/subconsulta.png "subconsulta")
